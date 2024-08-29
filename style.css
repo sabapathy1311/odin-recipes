@@ -1,0 +1,42 @@
+body {
+    background-color: #cee;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    margin: 2rem 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-bottom: 3px solid #9ee;
+}
+
+img {
+    display: block;
+    margin: 4rem auto;
+    border-radius: 50%;
+    height: 540px;
+    width: 540px;
+    text-align: center;
+}
+
+ul,
+ol {
+    line-height: 1.8rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-links {
+    list-style-type: lower-greek;
+}
